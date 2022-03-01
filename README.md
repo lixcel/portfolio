@@ -9,7 +9,7 @@ URL: ここに出来上がったURLを貼る
 
 ### サイトテーマ 
 
-
+考察や攻略を見られる、投稿できるゲーム攻略&考察サイトです！
 
 
 ### テーマを選んだ理由 
@@ -46,7 +46,7 @@ https://docs.google.com/spreadsheets/d/1o-h2bOikotdQr9saCEJ1V_Ikyod86qd2UWeH33FV
 - IDE: Cloud9 
 
 ## 使用素材
-- ゲームの紹介等で画像を使用する際はAmazonの商品画像リンクを規約に則って使用
+- ゲームの詳細等で画像を使用する際はAmazonの商品画像リンクを規約に則って使用
 https://affiliate.amazon.co.jp/help/node/topic/GKT6X2R3NGW5V23K
 
 
