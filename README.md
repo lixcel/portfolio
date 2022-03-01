@@ -1,5 +1,5 @@
 # _ConStrateGame_
-
+URL: ここに出来上がったURLを貼る
 
 ## サイト概要  
 様々なユーザーとゲームの感想や攻略方法などを共有できるサイト 
@@ -29,13 +29,21 @@
 ---
 
 ## 設計書
-
----
-
+https://docs.google.com/spreadsheets/d/1Kl0XCToyR-_vmIzrYoyqHKhWIrU0Svz08QHyTNfeJjw/edit?usp=sharing
 
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1o-h2bOikotdQr9saCEJ1V_Ikyod86qd2UWeH33FVZnY/edit?usp=sharing
 
+
+## 開発環境
+- OS: MacOS　Monterey 12.2.1
+- 言語: HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク: Ruby On Rails
+- JSライブラリ: jQuery
+- IDE: Cloud9 
+
+## 使用素材
+- 未定だが使用する可能性あり、使用次第順次更新
 
 
