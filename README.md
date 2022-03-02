@@ -3,8 +3,10 @@ URL: ここに出来上がったURLを貼る
 
 ## サイト概要  
 
-ゲームの攻略や考察を皆で投稿し議論するSNSサイトです。
-
+ゲームの攻略や考察を皆で投稿し議論するSNSサイトです！ 
+攻略や考察を投稿し、そこにコメントをすることで議論を交わすことができます。 
+フォロー機能やいいね機能を使う事で気になった投稿をいつでも見返すことができます！ 
+このサイトを使う事で自分とは違った視点で攻略や考察を行っている人と交流でき、ゲームをさらに楽しめるように出来たらと思っています。 
 
 
 ### サイトテーマ 
@@ -46,7 +48,7 @@ https://docs.google.com/spreadsheets/d/1o-h2bOikotdQr9saCEJ1V_Ikyod86qd2UWeH33FV
 - IDE: Cloud9 
 
 ## 使用素材
-- ゲームの詳細等で画像を使用する際はAmazonの商品画像リンクを規約に則って使用
-https://affiliate.amazon.co.jp/help/node/topic/GKT6X2R3NGW5V23K
-
+- 画像を使用する際は規約に則って使用
+- 任天堂様　https://www.nintendo.co.jp/networkservice_guideline/ja/index.html
+- Riot Games様　https://www.riotgames.com/ja/legal
 
